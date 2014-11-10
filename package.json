@@ -1,0 +1,30 @@
+{
+  "name": "ArrowJS",
+  "version": "0.0.2rev-1",
+  "description": "Minimal Middleware framework for Node.js",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "node ./tests/tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gist.github.com/yangodev/813449af4a6c05b2cede"
+  },
+  "keywords": [
+    "Enhanced",
+    "Event",
+    "Emitter",
+    "E3"
+  ],
+  "author": {
+    "name": "y4ng0 @ yangodev"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gist.github.com/yangodev/813449af4a6c05b2cede"
+  }
+}
